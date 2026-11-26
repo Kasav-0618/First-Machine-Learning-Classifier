@@ -50,3 +50,4 @@ Per assignment guidelines:
    - Right-click -> **Open with Google Colaboratory**.
    - Click **Share** (top right) -> change General access to **"Anyone with the link can view"**.
    - Copy the shareable link and paste it into your assignment submission along with `submission_writeup.md`.
+3.  Video link: https://youtu.be/VDAosYIGSGo
